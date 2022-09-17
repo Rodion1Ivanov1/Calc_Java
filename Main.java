@@ -71,7 +71,7 @@ public class Main {
                 rim="LX";
             } else if ((x3>=50)&&(x3<60)) {
                 rim="L";
-            } else if ((x3>=40)&&(x3<30)) {
+            } else if ((x3>=40)&&(x3<50)) {
                 rim="XL";
             } else if ((x3>=30)&&(x3<40)) {
                 rim="XXX";
